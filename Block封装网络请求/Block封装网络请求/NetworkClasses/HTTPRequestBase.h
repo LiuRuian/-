@@ -8,7 +8,7 @@
 
 #import "JSONModel.h"
 
-@interface HTTPRequestBase : JSONModel
+@interface HTTPRequestBase : JSONModel 
 @property (nonatomic, copy) NSString<Ignore> *requestURL;
 
 
